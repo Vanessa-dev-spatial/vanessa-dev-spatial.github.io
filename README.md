@@ -97,8 +97,6 @@ This reflects Palau’s global leadership in marine conservation and sustainable
 - QGIS (spatial processing and ETL)
 - OpenLayers (web mapping)
 - GitHub Pages (web hosting)
-- Python and/or SQL for data manipulation
-
 ---
 
 ## 🧩 Next Steps
